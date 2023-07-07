@@ -10,7 +10,7 @@ import requests
 from mitmproxy import http
 from mitmproxy import ctx
 import time
-from datetime import datetime
+from datetime import datetime 
 
 def verificaSite(url):
     try:
